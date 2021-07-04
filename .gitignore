@@ -1,0 +1,6 @@
+app-a/node_modules/
+app-a/build/
+app-b/node_modules/
+app-b/build/
+panel/node_modules/
+panel/build
